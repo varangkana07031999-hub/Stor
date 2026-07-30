@@ -1,0 +1,8 @@
+{
+  "name": "Remix คลังเก็บของ FiveM",
+  "description": "ระบบรายการส่งของเข้า-ออกคลังเก็บของ FiveM บันทึกประวัติ MySQL และแจ้งเตือน Discord Webhook เรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
